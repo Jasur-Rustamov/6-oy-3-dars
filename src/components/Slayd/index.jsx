@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-function Slayder() {
+function Slayd() {
   const values = [10, 20, 30, 40];
   const [currentIndex, setCurrentIndex] = useState(0);
 
@@ -34,4 +34,4 @@ function Slayder() {
   );
 }
 
-export default Slayder;
+export default Slayd;

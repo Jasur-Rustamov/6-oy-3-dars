@@ -5,7 +5,7 @@ import Yashirish from "./components/Yashirish";
 import Raqam from "./components/Raqam";
 import Hisob from "./components/Hisob-Kitob";
 import Tugma from "./components/Tugma";
-import Slayder from "./components/slayder";
+import Slayd from "./components/Slayd";
 import "./App.css";
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
       <Raqam />
       <Hisob />
       <Tugma />
-      <Slayder />
+      <Slayd />
     </div>
   );
 }
